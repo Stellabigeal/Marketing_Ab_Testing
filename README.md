@@ -1,6 +1,7 @@
 # Marketing_Ab_Testing
 Analyzing the impact of marketing campaigns using A/B testing to optimize conversions.
 
+<img width="1800" height="1200" alt="Burnout Capstone" src="https://github.com/user-attachments/assets/d31c8337-a868-40d5-a072-8e2af5057180" />
 
 # Evaluating the Impact of Marketing Campaigns using A/B Testing
 
