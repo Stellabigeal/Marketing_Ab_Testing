@@ -58,21 +58,30 @@ The dataset contains **588,101 user-level records** with the following features:
 
 ### Visualizations
 
-*(### Conversion Rate by Test Group
+---
 
-![Conversion Rate_by_Test_Group]([images/conversion_rate.png](https://github.com/Stellabigeal/Marketing_Ab_Testing/blob/main/Conversion_Rates_by_Test_Group.png))
-- This plot compares the conversion rates between the two experimental groups: "ad" and "psa" (public service announcement or control group). This plot visually confirms that users who saw the ads were more likely to convert.
--Day with Highest Conversion Rate: Monday (Conversion Rate: 0.0328)
--Day with Lowest Conversion Rate: Saturday (Conversion Rate: 0.0211)
--This plot reveals which days of the week users were shown the most ads and whether they converted.
--Higher conversion rates on weekdays aer from Monday–Wednesday suggest that people may respond better to ads during routine days when they are more structured and available online while Lower conversion on weekend like Saturday might indicate lower engagement or attention span for purchasing decisions, So therefore Focus ad delivery on high-performing weekdays like Monday reduces budget spend on low-converting days like Saturday
+### Conversion Rate by Test Group
 
-*(### Conversion Rate by Day User Saw Most Ads
+![Conversion Rate by Test Group](https://github.com/Stellabigeal/Marketing_Ab_Testing/blob/main/Conversion_Rates_by_Test_Group.png)
 
-![Conversion Rate by Day User Saw Most Ads]([images/conversion_rate.png](https://github.com/Stellabigeal/Marketing_Ab_Testing/blob/main/Conversion_Rates_by_Test_Group.png))
-
+- This plot compares the conversion rates between the two experimental groups: **"ad"** and **"psa"**.
+- It visually confirms that users who saw ads were more likely to convert.
 
 ---
+
+### Conversion Rate by Day User Saw Most Ads
+
+![Conversion Rate by Day User Saw Most Ads](https://github.com/Stellabigeal/Marketing_Ab_Testing/blob/main/Conversion_Rates_by_Most_Ads.png)
+
+- **Day with Highest Conversion Rate:** Monday (0.0328)  
+- **Day with Lowest Conversion Rate:** Saturday (0.0211)  
+- This plot reveals which days of the week users were shown the most ads and whether they converted.
+- Higher conversion rates from **Monday–Wednesday** suggest people respond better during structured weekday routines.
+- Lower conversions on **Saturday** may indicate less attention toward purchases during weekends.
+- **Recommendation:** Focus ad delivery on high-performing weekdays and reduce budget spend on low-converting days.
+
+---
+
 
 ## Inferential Statistics: Hypothesis Testing
 
