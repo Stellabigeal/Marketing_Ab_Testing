@@ -70,9 +70,10 @@ The dataset contains **588,101 user-level records** with the following features:
 
 ---
 
-### Conversion Rate by Day User Saw Most Ads
 
-![Conversion Rate by Day User Saw Most Ads](https://github.com/Stellabigeal/Marketing_Ab_Testing/blob/main/Conversion_Rates_by_Most_Ads.png)
+### Conversion Rate by Day User Saw Most Ads
+![Conversion Rate by Day](https://raw.githubusercontent.com/Stellabigeal/Marketing_Ab_Testing/480dd89adc259335e8d2195a7efc99dabc55273d/Conversion_Rates_by_Most_Ads.jpg)
+
 
 - **Day with Highest Conversion Rate:** Monday (0.0328)  
 - **Day with Lowest Conversion Rate:** Saturday (0.0211)  
