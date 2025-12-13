@@ -1,7 +1,7 @@
 # Marketing_Ab_Testing
 Analyzing the impact of marketing campaigns using A/B testing to optimize conversions.
 
-
+![Image](https://github.com/user-attachments/assets/89c277af-93de-463a-99dd-40cd6536a997)
 
 # Evaluating the Impact of Marketing Campaigns using A/B Testing
 
